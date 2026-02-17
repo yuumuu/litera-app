@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Litera</string>
+    <string name="title_activity_main">Litera</string>
+    <string name="package_name">id.litera.app</string>
+    <string name="custom_url_scheme">id.litera.app</string>
+</resources>
